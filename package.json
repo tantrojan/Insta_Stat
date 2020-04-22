@@ -1,0 +1,51 @@
+{
+  "name": "insta_stat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.5.0",
+    "@testing-library/react": "^10.0.3",
+    "@testing-library/user-event": "^10.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "@material-ui/core": "4.9.11",
+    "@material-ui/icons": "4.9.1",
+    "chartist": "0.11.4",
+    "classnames": "2.2.6",
+    "history": "4.10.1",
+    "perfect-scrollbar": "1.5.0",
+    "prop-types": "15.7.2",
+    "react-chartist": "0.14.3",
+    "react-google-maps": "9.4.5",
+    "react-router-dom": "5.1.2",
+    "react-swipeable-views": "0.13.9"
+  },
+  "homepage": "https://tantrojan.github.io/Insta_Stat/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
