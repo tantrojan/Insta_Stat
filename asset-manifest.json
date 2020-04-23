@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Insta_Stat/static/js/main.3aa2c815.chunk.js",
-    "main.js.map": "/Insta_Stat/static/js/main.3aa2c815.chunk.js.map",
+    "main.js": "/Insta_Stat/static/js/main.f5434d2e.chunk.js",
+    "main.js.map": "/Insta_Stat/static/js/main.f5434d2e.chunk.js.map",
     "runtime-main.js": "/Insta_Stat/static/js/runtime-main.82c0bc2a.js",
     "runtime-main.js.map": "/Insta_Stat/static/js/runtime-main.82c0bc2a.js.map",
-    "static/js/2.f2502ead.chunk.js": "/Insta_Stat/static/js/2.f2502ead.chunk.js",
-    "static/js/2.f2502ead.chunk.js.map": "/Insta_Stat/static/js/2.f2502ead.chunk.js.map",
+    "static/js/2.6c543546.chunk.js": "/Insta_Stat/static/js/2.6c543546.chunk.js",
+    "static/js/2.6c543546.chunk.js.map": "/Insta_Stat/static/js/2.6c543546.chunk.js.map",
     "index.html": "/Insta_Stat/index.html",
-    "precache-manifest.75c60e6ad699a6ec2afc41314bcac4fc.js": "/Insta_Stat/precache-manifest.75c60e6ad699a6ec2afc41314bcac4fc.js",
+    "precache-manifest.f106d7b8d469e789eb64679b1816d836.js": "/Insta_Stat/precache-manifest.f106d7b8d469e789eb64679b1816d836.js",
     "service-worker.js": "/Insta_Stat/service-worker.js",
-    "static/js/2.f2502ead.chunk.js.LICENSE.txt": "/Insta_Stat/static/js/2.f2502ead.chunk.js.LICENSE.txt"
+    "static/js/2.6c543546.chunk.js.LICENSE.txt": "/Insta_Stat/static/js/2.6c543546.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82c0bc2a.js",
-    "static/js/2.f2502ead.chunk.js",
-    "static/js/main.3aa2c815.chunk.js"
+    "static/js/2.6c543546.chunk.js",
+    "static/js/main.f5434d2e.chunk.js"
   ]
 }
